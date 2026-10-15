@@ -1,0 +1,20 @@
+{
+  "config": "large@8",
+  "features": "large",
+  "n_frames": 8,
+  "encoder": [
+    "ViT-B-32",
+    "laion2b_s34b_b79k"
+  ],
+  "head": "head_large_8.onnx",
+  "tau": 0.0,
+  "classes": [
+    "gameplay_animation",
+    "sports_broadcast",
+    "vlog_egocentric",
+    "talking_head",
+    "presentation_screen",
+    "cinematic_documentary"
+  ],
+  "n_features": 1024
+}

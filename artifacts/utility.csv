@@ -1,0 +1,7 @@
+,gameplay_animation,sports_broadcast,vlog_egocentric,talking_head,presentation_screen,cinematic_documentary
+gameplay_animation,1.0,0.7,0.3,0.2,0.2,0.4
+sports_broadcast,0.7,1.0,0.3,0.2,0.2,0.3
+vlog_egocentric,0.3,0.3,1.0,0.3,0.2,0.5
+talking_head,0.2,0.2,0.3,1.0,0.6,0.3
+presentation_screen,0.2,0.2,0.2,0.6,1.0,0.2
+cinematic_documentary,0.4,0.3,0.5,0.3,0.2,1.0

@@ -1,0 +1,16 @@
+# Commands run EXACTLY as written, in order, from a fresh checkout. All non-interactive and idempotent.
+
+setup_commands:
+  - "python -c \"import sys; assert sys.version_info >= (3, 12), 'Python 3.12+ required'\""
+  - "pip install -r requirements.txt"
+  - "python src/main.py fetch-encoder"
+
+run_commands:
+  - "python src/main.py evaluate"
+  - "python src/main.py predict samples/"
+  - "python src/main.py benchmark samples/"
+
+test_commands:
+  - "python -m pytest -q"
+
+notes: "Requires Python 3.12+ (64-bit), CPU only, no GPU. Takes about 10 minutes total after the dependencies are installed (evaluate ~5 min, tests ~3 min, predict and benchmark under 1 min each; the pip install of torch and friends adds roughly 8 more minutes on a clean machine). fetch-encoder downloads the production encoder's weights once (about 605 MB for ViT-B-32) from the Hugging Face Hub into the cache at ~/.cache/huggingface (outside the repo). evaluate re-runs the full trade-off sweep from the committed VideoMME 10% features in artifacts/ (no video download needed). evaluate and benchmark rewrite the committed files in artifacts/ with this machine's results and timings. The full rebuild from YouTube (sample, download, extract, labels, featurize, evaluate, export) is documented in docs/README.md."

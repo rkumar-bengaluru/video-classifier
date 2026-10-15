@@ -1,0 +1,91 @@
+video_id,youtube_id,duration_bucket,domain,sub_category,label_auto,label_final,label_changed,note
+785,jIx5Zi84Z3Q,long,Artistic Performance,Stage Play,cinematic_documentary,cinematic_documentary,False,
+788,6dmTmP4Dsw8,long,Artistic Performance,Stage Play,cinematic_documentary,cinematic_documentary,False,
+820,SeDGkRfpTqQ,long,Artistic Performance,Acrobatics,cinematic_documentary,cinematic_documentary,False,
+818,Fqptx5fNXR4,long,Artistic Performance,Acrobatics,cinematic_documentary,cinematic_documentary,False,
+712,GDzuMTvHnJE,long,Film & Television,Documentary,cinematic_documentary,cinematic_documentary,False,
+720,AkHbB9GuCkE,long,Film & Television,Documentary,cinematic_documentary,cinematic_documentary,False,
+724,54k2g9ddy4M,long,Film & Television,News Report,talking_head,talking_head,False,
+717,068rdc75mHM,long,Film & Television,Documentary,cinematic_documentary,cinematic_documentary,False,
+671,HnS87Tw4amM,long,Knowledge,Life Tip,cinematic_documentary,vlog_egocentric,True,handheld DIY repair
+639,PHe0bXAIuk0,long,Knowledge,Finance & Commerce,cinematic_documentary,presentation_screen,True,whiteboard explainer
+651,Pfyx5bEZK80,long,Knowledge,Geography,cinematic_documentary,cinematic_documentary,False,
+644,EVBCLAaflaw,long,Knowledge,Astronomy,cinematic_documentary,cinematic_documentary,False,
+607,zxKPjD8urG4,long,Knowledge,Humanity & History,cinematic_documentary,cinematic_documentary,False,
+630,BjmPvovl-V4,long,Knowledge,Biology & Medicine,cinematic_documentary,talking_head,True,interview set (Big Think style)
+625,iCQmfRMwHfA,long,Knowledge,Biology & Medicine,cinematic_documentary,presentation_screen,True,lecture with slides
+684,NCNeFSJexSY,long,Knowledge,Technology,cinematic_documentary,talking_head,True,podcast studio
+669,g1VFfVsZt7w,long,Knowledge,Law,cinematic_documentary,talking_head,True,lawyer speaking to camera
+875,4IenX7OHumk,long,Life Record,Pet & Animal,cinematic_documentary,cinematic_documentary,False,
+846,fLO5Ww0V2qU,long,Life Record,Fashion,vlog_egocentric,vlog_egocentric,False,
+839,azJ5pk5reX0,long,Life Record,Food,vlog_egocentric,vlog_egocentric,False,
+883,2LDriAWltwM,long,Life Record,Exercise,vlog_egocentric,vlog_egocentric,False,
+859,u4TU2A7eVj8,long,Life Record,Daily Life,vlog_egocentric,vlog_egocentric,False,
+873,t23Zi0DBSiI,long,Life Record,Pet & Animal,cinematic_documentary,vlog_egocentric,True,handheld phone footage of pets
+831,6Pt3-NDxzRk,long,Life Record,Food,vlog_egocentric,vlog_egocentric,False,
+893,WQn-c_4dVWs,long,Multilingual,Multilingual,cinematic_documentary,cinematic_documentary,False,
+762,gTPHH880Cyc,long,Sports Competition,Athletics,sports_broadcast,sports_broadcast,False,
+742,cy40DIzOUow,long,Sports Competition,Basketball,sports_broadcast,sports_broadcast,False,
+744,4od5mdtEp-E,long,Sports Competition,Basketball,sports_broadcast,vlog_egocentric,True,player behind-the-scenes vlog
+736,-y1U0qk1vDs,long,Sports Competition,Esports,gameplay_animation,gameplay_animation,False,
+769,qeefjE74SXI,long,Sports Competition,Athletics,sports_broadcast,sports_broadcast,False,
+518,hZ8DmOpRTVc,medium,Artistic Performance,Acrobatics,cinematic_documentary,cinematic_documentary,False,
+506,xYdeRoM78h4,medium,Artistic Performance,Variety Show,cinematic_documentary,cinematic_documentary,False,
+481,CwzjlmBLfrQ,medium,Artistic Performance,Stage Play,cinematic_documentary,cinematic_documentary,False,
+508,QopYbLq-zIQ,medium,Artistic Performance,Variety Show,cinematic_documentary,cinematic_documentary,False,
+395,-XpJeDGh8No,medium,Film & Television,Animation,gameplay_animation,gameplay_animation,False,
+411,K759eXmaMTY,medium,Film & Television,Documentary,cinematic_documentary,cinematic_documentary,False,
+406,r-ySDrO4uf4,medium,Film & Television,Movie & TV Show,cinematic_documentary,cinematic_documentary,False,
+422,FkZn5u3MIiY,medium,Film & Television,News Report,talking_head,talking_head,False,
+308,wgPymD-NBQU,medium,Knowledge,Humanity & History,cinematic_documentary,gameplay_animation,True,flat 2D cartoon animation
+372,phM_SYH6aA0,medium,Knowledge,Life Tip,cinematic_documentary,talking_head,True,single static presenter demonstrating
+352,xa6SdvFA3w0,medium,Knowledge,Geography,cinematic_documentary,talking_head,True,presenter to camera with map inserts
+316,IaTaaNinolU,medium,Knowledge,Literature & Art,cinematic_documentary,gameplay_animation,True,flat 2D cartoon animation
+320,z2APU5ob9Og,medium,Knowledge,Literature & Art,cinematic_documentary,cinematic_documentary,False,
+301,dphq5X-rMew,medium,Knowledge,Humanity & History,cinematic_documentary,cinematic_documentary,False,
+314,1pHkv4KUiFY,medium,Knowledge,Literature & Art,cinematic_documentary,cinematic_documentary,False,
+304,QTA8j5wSTx4,medium,Knowledge,Humanity & History,cinematic_documentary,presentation_screen,True,webcam lecturer over painting slideshow
+371,7fnVcXfPe5c,medium,Knowledge,Life Tip,cinematic_documentary,presentation_screen,True,chalkboard explainer
+573,1NcGHbFWBFA,medium,Life Record,Pet & Animal,cinematic_documentary,vlog_egocentric,True,phone clip compilation
+528,biiLScgI3u4,medium,Life Record,Handicraft,vlog_egocentric,vlog_egocentric,False,
+565,QHFy-nWNJYk,medium,Life Record,Travel,vlog_egocentric,vlog_egocentric,False,
+588,xre_3dxdhkQ,medium,Life Record,Exercise,vlog_egocentric,vlog_egocentric,False,
+521,qJGqZ_g__So,medium,Life Record,Handicraft,vlog_egocentric,vlog_egocentric,False,
+546,x8zGsWuu-e0,medium,Life Record,Fashion,vlog_egocentric,vlog_egocentric,False,
+539,FcP0mzWFCQU,medium,Life Record,Food,vlog_egocentric,cinematic_documentary,True,fast-food industry documentary
+594,GrO5sxp3n0E,medium,Multilingual,Multilingual,cinematic_documentary,talking_head,True,presenter speaking to camera at table
+464,ZQIZx5Oqw88,medium,Sports Competition,Athletics,sports_broadcast,sports_broadcast,False,
+453,PYOyMK2Jw7g,medium,Sports Competition,Football,sports_broadcast,sports_broadcast,False,
+438,UIvP4xyw9H8,medium,Sports Competition,Esports,gameplay_animation,gameplay_animation,False,
+434,0FM64MrRuZE,medium,Sports Competition,Esports,gameplay_animation,gameplay_animation,False,
+442,kjwjDjQupLc,medium,Sports Competition,Basketball,sports_broadcast,sports_broadcast,False,
+220,D61jenC5oBA,short,Artistic Performance,Acrobatics,cinematic_documentary,sports_broadcast,True,acrobatic routine
+215,VmNBt1tzC6k,short,Artistic Performance,Acrobatics,cinematic_documentary,sports_broadcast,True,acrobatic gymnastics competition broadcast
+186,QhL6ICNQ_So,short,Artistic Performance,Stage Play,cinematic_documentary,cinematic_documentary,False,
+181,8np5YKYx3sU,short,Artistic Performance,Stage Play,cinematic_documentary,cinematic_documentary,False,
+111,HmnKbBmYii8,short,Film & Television,Documentary,cinematic_documentary,cinematic_documentary,False,
+119,-ApL8d6tX5U,short,Film & Television,Documentary,cinematic_documentary,cinematic_documentary,False,
+109,qu9ImFMLYxw,short,Film & Television,Movie & TV Show,cinematic_documentary,cinematic_documentary,False,
+128,EJ_yarUrgVQ,short,Film & Television,News Report,talking_head,talking_head,False,
+082,m4qhFFdHTCc,short,Knowledge,Technology,cinematic_documentary,cinematic_documentary,False,
+052,nYLMNQ77FjM,short,Knowledge,Geography,cinematic_documentary,gameplay_animation,True,flat 2D cartoon animation
+025,ebzbKa32kuk,short,Knowledge,Biology & Medicine,cinematic_documentary,cinematic_documentary,False,
+042,kRlhlCWplqk,short,Knowledge,Astronomy,cinematic_documentary,cinematic_documentary,False,
+021,TbaCxIJ_VP4,short,Knowledge,Biology & Medicine,cinematic_documentary,gameplay_animation,True,flat 2D cartoon animation
+063,eTLMWnsStuk,short,Knowledge,Law,cinematic_documentary,presentation_screen,True,slide-style legal explainer
+026,XWfqBKeC0g8,short,Knowledge,Biology & Medicine,cinematic_documentary,cinematic_documentary,False,
+022,n3IYmdy6d4Y,short,Knowledge,Biology & Medicine,cinematic_documentary,cinematic_documentary,False,
+056,WmVLcj-XKnM,short,Knowledge,Geography,cinematic_documentary,cinematic_documentary,False,
+258,ZfNSxRiYfZQ,short,Life Record,Daily Life,vlog_egocentric,vlog_egocentric,False,
+226,OQAf_rTw7n8,short,Life Record,Handicraft,vlog_egocentric,vlog_egocentric,False,
+250,2iHmlBmLKUE,short,Life Record,Fashion,vlog_egocentric,vlog_egocentric,False,
+272,YsPwg3dUwjQ,short,Life Record,Pet & Animal,cinematic_documentary,vlog_egocentric,True,handheld phone footage
+271,yXl0Vrk5ssk,short,Life Record,Pet & Animal,cinematic_documentary,cinematic_documentary,False,
+265,5-4Od1qn53s,short,Life Record,Travel,vlog_egocentric,vlog_egocentric,False,
+278,fQVhppRP4Wo,short,Life Record,Pet & Animal,cinematic_documentary,vlog_egocentric,True,handheld phone footage
+292,DoFmXBjRGmk,short,Multilingual,Multilingual,cinematic_documentary,vlog_egocentric,True,daily-life vlog
+147,7R1eNHvfspk,short,Sports Competition,Basketball,sports_broadcast,vlog_egocentric,True,vertical TikTok clips
+133,uF3zNOthLAg,short,Sports Competition,Esports,gameplay_animation,gameplay_animation,False,
+140,Kv1JXuOkAfk,short,Sports Competition,Esports,gameplay_animation,gameplay_animation,False,
+135,fJ-hp5Jlbv0,short,Sports Competition,Esports,gameplay_animation,gameplay_animation,False,
+154,1tidNDIpKSY,short,Sports Competition,Football,sports_broadcast,cinematic_documentary,True,host-city ceremony not a match

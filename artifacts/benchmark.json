@@ -1,0 +1,27 @@
+{
+  "config": "large@8",
+  "videos": [
+    "samples\\gameplay_animation_736.mp4",
+    "samples\\sports_broadcast_453.mp4",
+    "samples\\talking_head_422.mp4"
+  ],
+  "batch1_ms": {
+    "p50": 592.4512001220137,
+    "p95": 617.7370599936694,
+    "mean": 596.9726666808128
+  },
+  "batch1_throughput_vps": 1.6751185704364524,
+  "batch32_wall_ms": 18870.68809987977,
+  "batch32_throughput_vps": 1.6957516244573974,
+  "components_ms_median": {
+    "decode": 167.55,
+    "motion": 0.0,
+    "encoder": 421.31,
+    "head": 0.19
+  },
+  "machine": {
+    "cpu_count": 16,
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD"
+  }
+}

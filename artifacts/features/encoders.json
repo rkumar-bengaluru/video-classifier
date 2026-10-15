@@ -1,0 +1,10 @@
+{
+  "small": [
+    "MobileCLIP2-S0",
+    "dfndr2b"
+  ],
+  "large": [
+    "ViT-B-32",
+    "laion2b_s34b_b79k"
+  ]
+}

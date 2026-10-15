@@ -1,0 +1,12 @@
+{
+  "decode_ms_per_timestamp": 23.372593750536907,
+  "motion_ms_per_timestamp": 3.3665968730929308,
+  "encoder_ms_per_frame": {
+    "small": 81.44874998833984,
+    "large": 87.96529995743185
+  },
+  "encoder_mb_fp32": {
+    "small": 45.430016,
+    "large": 351.396864
+  }
+}

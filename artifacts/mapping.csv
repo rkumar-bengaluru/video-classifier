@@ -1,0 +1,31 @@
+sub_category,class,chunker
+Esports,gameplay_animation,shot_boundary
+Animation,gameplay_animation,shot_boundary
+Basketball,sports_broadcast,motion_segment
+Football,sports_broadcast,motion_segment
+Athletics,sports_broadcast,motion_segment
+Other Sports,sports_broadcast,motion_segment
+Daily Life,vlog_egocentric,activity
+Travel,vlog_egocentric,activity
+Food,vlog_egocentric,activity
+Handicraft,vlog_egocentric,activity
+Exercise,vlog_egocentric,activity
+Fashion,vlog_egocentric,activity
+News Report,talking_head,speaker_turn
+Movie & TV Show,cinematic_documentary,semantic_scene
+Documentary,cinematic_documentary,semantic_scene
+Stage Play,cinematic_documentary,semantic_scene
+Variety Show,cinematic_documentary,semantic_scene
+Magic Show,cinematic_documentary,semantic_scene
+Acrobatics,cinematic_documentary,semantic_scene
+Pet & Animal,cinematic_documentary,semantic_scene
+Humanity & History,cinematic_documentary,semantic_scene
+Literature & Art,cinematic_documentary,semantic_scene
+Biology & Medicine,cinematic_documentary,semantic_scene
+Finance & Commerce,cinematic_documentary,semantic_scene
+Astronomy,cinematic_documentary,semantic_scene
+Geography,cinematic_documentary,semantic_scene
+Law,cinematic_documentary,semantic_scene
+Life Tip,cinematic_documentary,semantic_scene
+Technology,cinematic_documentary,semantic_scene
+Multilingual,cinematic_documentary,semantic_scene
